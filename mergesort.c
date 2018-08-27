@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+/* Copy function comment */
 void copy(int a[100],int b[100],int begin,int end)
 {
 	int i, j;
